@@ -43,9 +43,9 @@ body{
 .card{
         margin-top: 20px;
         position: relative;
-        width:1200px;
-        min-height: 100px;
-        padding: 100px;
+        width:1000px;
+        min-height:100px;
+        padding: 90px;
         top: 0;
          left: 0;
         display: flex;
@@ -67,7 +67,7 @@ body{
             color: white;
             top:0;
             left: 0;
-            font-size:40px;
+            font-size:20px;
             font-style: italic;
             font-family: 'Playfair Display', serif;
 }
