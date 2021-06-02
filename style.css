@@ -24,7 +24,7 @@ body{
     float: left;
     color: #fbff00;
     text-align: center;
-    padding: 14px 16px;
+    padding: 13px 16px;
     text-decoration: none;
     font-size: 17px;
   }
@@ -42,7 +42,7 @@ body{
 .card{
         margin-top: 20px;
         position: relative;
-        width:950px;
+        width:959px;
         height:200px;
         top: 0;
         left: 0;
