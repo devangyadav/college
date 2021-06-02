@@ -42,8 +42,8 @@ body{
 .card{
         margin-top: 20px;
         position: relative;
-        width:900px;
-        height:400px;
+        width:1050px;
+        height:200px;
         top: 0;
         left: 0;
         display: flex;
